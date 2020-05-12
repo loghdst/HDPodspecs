@@ -1,0 +1,22 @@
+{
+  "name": "HDPodspecs",
+  "version": "0.1.0",
+  "summary": "A short description of HDPodspecs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Loghdst/HDPodspecs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Loghdst": "1778343924@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Loghdst/HDPodspecs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HDPodspecs/Classes/**/*"
+}

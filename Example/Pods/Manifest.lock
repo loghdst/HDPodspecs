@@ -1,0 +1,16 @@
+PODS:
+  - HDPodspecs (0.1.0)
+
+DEPENDENCIES:
+  - HDPodspecs (from `../`)
+
+EXTERNAL SOURCES:
+  HDPodspecs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HDPodspecs: d34b04eee9262810fed18a6e8cd583bcc90dc4c8
+
+PODFILE CHECKSUM: d28be635054107bd76d427ff5475a6cb3fe92801
+
+COCOAPODS: 1.6.2

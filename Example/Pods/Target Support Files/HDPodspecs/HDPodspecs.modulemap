@@ -1,0 +1,6 @@
+framework module HDPodspecs {
+  umbrella header "HDPodspecs-umbrella.h"
+
+  export *
+  module * { export * }
+}
