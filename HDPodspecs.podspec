@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HDPodspecs'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HDPodspecs.'
+  s.summary          = 'HDPodspecs contains custom controls in iOS'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,12 +18,12 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+HDPodspecs contains custom controls in iOS
                        DESC
 
   s.homepage         = 'https://github.com/Loghdst/HDPodspecs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => "MIT", :file => "LICENSE" }
   s.author           = { 'Loghdst' => '1778343924@qq.com' }
   s.source           = { :git => 'https://github.com/Loghdst/HDPodspecs.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
